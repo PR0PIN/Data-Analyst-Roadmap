@@ -1,4 +1,4 @@
-# My Journey in Data Analytics 🚀
+# 🚀 My Journey in Data Analytics
 ### From BI Analyst to Cloud Data Expert
 Hello foreigner! And welcome to my **Data Analyst Roadmap**! 
 This repository is a work in progress collection of milestones, projects, and resources that have shaped my journey from a beginner to a cloud data analyst. Whether you're just starting out or looking to expand your skills in data analytics, I hope my experiences can offer some insights or inspiration.
