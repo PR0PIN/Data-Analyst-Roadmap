@@ -7,17 +7,12 @@ This project implements a Markov-based attribution model to evaluate the impact 
 
 ```
 branded_content_multichannel_attribution/
-├── data/
+├── data
 │   ├── simulated_multichannel_data.csv   # Simulated dataset for analysis
 │   └── processed_data.csv                # Processed dataset after exploratory analysis
-├── notebooks/
+├── notebooks
 │   ├── 1_exploratory_data_analysis.ipynb # Notebook for exploratory data analysis
 │   └── 2_markov_attribution_model.ipynb  # Notebook for Markov attribution model
-├── src/
-│   ├── attribution_model.py              # Python code to implement Markov model
-│   └── data_preprocessing.py             # Python code for data preprocessing
-├── dashboards/
-│   └── dashboard_screenshots.png         # Screenshots of the Tableau/Looker Studio dashboard
 └── README.md                             # Project documentation
 ```
 
