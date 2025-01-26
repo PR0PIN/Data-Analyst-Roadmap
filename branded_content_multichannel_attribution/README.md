@@ -57,11 +57,6 @@ Open and execute the `2_markov_attribution_model.ipynb` notebook to:
 - Calculate channel contributions using Markov Chains.
 - Perform lift analysis for impacted vs. non-impacted users.
 
-### 5. Visualize Results
-Use the Tableau/Looker Studio dashboard to visualize:
-- Conversion metrics by channel.
-- Channel contribution based on Markov attribution.
-
 ## Dataset Description
 The simulated dataset contains the following columns:
 
@@ -87,19 +82,8 @@ Bar plots highlighting each channel's contribution to conversions based on the M
 Comparison of conversion rates between users impacted by branded content and non-impacted users.
 
 ### 4. **Interactive Dashboard**
-- Conversion performance by channel.
-- Comparison of impacted vs. non-impacted user groups.
+Later on creating an interactive dashboard to visualize the findings.
 
-## Results and Insights
-
-1. **Channel Attribution Results**
-   - The Markov model provides a breakdown of how much each channel contributes to the overall conversion rate.
-
-2. **Lift Analysis**
-   - The analysis shows the difference in conversion rates between impacted and non-impacted users, quantifying the effectiveness of branded content.
-
-3. **Interactive Dashboards**
-   - Visualize the findings through interactive dashboards in Tableau or Looker Studio.
 
 ## Technologies Used
 
